@@ -6,7 +6,7 @@ attribution: "Antonio Berben (Solo.io), Charlie Egan (Styra)"
 keywords: [istio,opa,policy,platform,authorization]
 ---
 
-The era of the platform is here. Behind every great application team, is a great platform, and a great platform _team_. Platforms offer resources and shared functionality to teams so they don't need to build everything from scratch. Platform teams aren’t short of work either, but now is a great time to ask the question: what’s the highest value platform feature you can offer the tenants of your platform?
+The era of the platform is here. A platform refers to a centralized infrastructure provided by organizations to support application development and deployment. These platforms offer resources, tools, and shared functionalities that enable development teams to avoid building everything from scratch. Behind every great application team is a great platform, and a great platform team. Good platform teams, through the platforms they build, accelerate application teams, and the best platform teams are always thinking about new ways to accelerate them more efficiently. Now is a great time to ask: what’s the highest value platform feature you can offer the tenants of your platform?
 
 Often work is given directly to application teams to implement, but there are some features that are best implemented once, and offered as a service to all teams. One feature within the reach of most platform teams is offering a standard, responsive system for Layer 7 application authorization policy. Policy as code enables teams to lift authorization decisions out of the application layer into a lightweight and performant decoupled system. It might sound like a challenge but it doesn't have to be with the right tools for the job.
 
